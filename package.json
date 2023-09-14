@@ -1,0 +1,21 @@
+{
+  "name": "galactic-pink",
+  "displayName": "Galactic Pink",
+  "description": "dark contrast colors - pink and green - by geici",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Galactic Pink",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Galactic Pink-color-theme.json"
+      }
+    ]
+  }
+}

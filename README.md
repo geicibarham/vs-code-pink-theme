@@ -3,7 +3,8 @@
 Welcome to the **Galactic Pink** for Visual Studio Code! Dive into a world where vibrant colors of pink, green, and purple contrast against the depth of a dark background, providing an aesthetic and functional coding experience.
 
 ## Preview
-![Theme preview showing a mix of pink, green, and purple contrasting colors on a dark background](<link-to-screenshot>)
+![Theme preview showing a mix of pink, green, and purple contrasting colors on a dark background](<image.png>)
+
 
 ## Features
 
